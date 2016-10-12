@@ -1,0 +1,32 @@
+{
+  "name": "d3by5-axis",
+  "version": "0.0.1",
+  "description": "Utility class for d3by5 charts",
+  "main": "d3by5-axis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartoteket/d3by5-axis.git"
+  },
+  "keywords": [
+    "axis",
+    "charts",
+    "d3",
+    "visualisations"
+  ],
+  "author": "Kartoteket AS",
+  "contributors": [
+    "Bård Røtzer <bard@kartoteket.as>",
+    "Svale Fossåskaret <svale@kartoteket.as>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartoteket/d3by5-axis/issues"
+  },
+  "homepage": "https://github.com/kartoteket/d3by5-axis#readme",
+  "dependencies": {
+    "d3": "^3.5.17"
+  }
+}
